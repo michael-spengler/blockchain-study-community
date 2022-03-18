@@ -1,1 +1,3 @@
-# blockchain-study-community
+# Blockchain Study Community
+
+... concept under construction ... 
